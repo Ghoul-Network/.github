@@ -11,10 +11,4 @@
   </a>
 </p>
 
-# Skills
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,javascript,html,css&includeNames=true" alt="Skills">
-</p>
-
 </div>
